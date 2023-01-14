@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ja_product-card",
+  "name": "@jasonabril/ja_product-card",
   "author": "Jason Abril",
   "module": "dist/ja_product-card.esm.js",
   "size-limit": [
